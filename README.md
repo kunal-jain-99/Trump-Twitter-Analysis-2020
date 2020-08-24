@@ -7,7 +7,7 @@ President Donald J. Trump's Twitter Analysis with tweets from 1st January 2020 t
 
 **Demo:** *https://public.tableau.com/profile/kunal.jain2260#!/vizhome/DonaldTrumpTweetAnalysis_15977367965260/TrumpTwitterAnalysis*
 
-**Analysis:**
+**What did I Analze:**
 1. Tweets from January 2020
 2. Mr. President's Favourite Words
 3. Top 10 Retweeted Tweets
